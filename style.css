@@ -57,3 +57,179 @@ body {
   left: 5%;
   background: #e12100;
 }
+.ellipse-button {
+  position: absolute;
+  width: 30%;
+  height: 5%;
+  left: 40%;
+  top: 8%;
+  border-radius: 15px;
+  background: black;
+}
+.analog-left {
+  position: absolute;
+  height: 20%;
+  width: 50%;
+  top: 20%;
+  left: 17%;
+  border-radius: 50%;
+  background: #999;
+}
+.inside-analog-left {
+  position: absolute;
+  height: 90%;
+  width: 90%;
+  top: 5%;
+  left: 5%;
+  border-radius: 50%;
+  background-color: black;
+}
+/* left side container */
+.d-pad-container-left {
+  position: absolute;
+  height: 25%;
+  width: 60%;
+  top: 45%;
+  left: 10%;
+  background: none;
+}
+
+.d-pad-top {
+  position: absolute;
+  height: 25%;
+  width: 30%;
+  left: 35%;
+  border-radius: 50%;
+  background: black;
+}
+.d-pad-bottom {
+  position: absolute;
+  height: 25%;
+  width: 30%;
+  left: 35%;
+  bottom: 0;
+  border-radius: 50%;
+  background: black;
+}
+.d-pad-left {
+  position: absolute;
+  height: 25%;
+  width: 30%;
+  left: 0%;
+  bottom: 40%;
+  border-radius: 50%;
+  background: black;
+}
+.d-pad-right {
+  position: absolute;
+  height: 25%;
+  width: 30%;
+  right: 0%;
+  bottom: 40%;
+  border-radius: 50%;
+  background: black;
+}
+.square-button {
+  position: absolute;
+  width: 20%;
+  height: 8%;
+  background: black;
+  bottom: 12%;
+  right: 45%;
+}
+.d-pad-2-container {
+  position: absolute;
+  height: 8%;
+  width: 25%;
+  top: 3%;
+  left: 30%;
+  background: none;
+}
+.horizontal-bar {
+  position: absolute;
+  height: 30%;
+  width: 100%;
+  top: 35%;
+  background: black;
+}
+.vertical-bar {
+  position: absolute;
+  width: 30%;
+  height: 100%;
+  top: 0%;
+  left: 35%;
+  background: black;
+}
+
+.analog-right {
+  position: absolute;
+  height: 20%;
+  width: 50%;
+  bottom: 27%;
+  left: 35%;
+  border-radius: 50%;
+  background: #999;
+}
+.inside-analog-right {
+  position: absolute;
+  height: 90%;
+  width: 90%;
+  top: 5%;
+  left: 5%;
+  border-radius: 50%;
+  background-color: black;
+}
+/* right side container */
+.d-pad-container-right {
+  position: absolute;
+  height: 25%;
+  width: 60%;
+  top: 20%;
+  right: 10%;
+  background: none;
+}
+
+.d-pad-top {
+  position: absolute;
+  height: 25%;
+  width: 30%;
+  left: 35%;
+  border-radius: 50%;
+  background: black;
+}
+.d-pad-bottom {
+  position: absolute;
+  height: 25%;
+  width: 30%;
+  left: 35%;
+  bottom: 0;
+  border-radius: 50%;
+  background: black;
+}
+.d-pad-left {
+  position: absolute;
+  height: 25%;
+  width: 30%;
+  left: 0%;
+  bottom: 40%;
+  border-radius: 50%;
+  background: black;
+}
+.d-pad-right {
+  position: absolute;
+  height: 25%;
+  width: 30%;
+  right: 0%;
+  bottom: 40%;
+  border-radius: 50%;
+  background: black;
+}
+.square-button-right {
+  position: absolute;
+  width: 20%;
+  height: 8%;
+  background: black;
+  bottom: 10%;
+  left: 45%;
+  border-radius: 8px;
+}
