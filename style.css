@@ -264,7 +264,7 @@ body {
   left: 27%;
   border-radius: 50%;
   background: white;
-  animation: 3s infinite bounce-it-left;
+  animation: 2s infinite bounce-it-left;
 }
 .switch-logo-right-ball {
   position: absolute;
@@ -274,7 +274,7 @@ body {
   left: 27%;
   border-radius: 50%;
   background: #e12100;
-  animation: 3s infinite bounce-it-right;
+  animation: 2s infinite bounce-it-right;
 }
 
 @keyframes bounce-it-left {
